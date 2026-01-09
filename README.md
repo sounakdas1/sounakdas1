@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sounakdas1" alt="sounakdas1" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning, Full stack Development**
+- 🔭 I’m currently working on **Machine learning,robotics,Computer vision, Full stack Development**
 
 - 👨‍💻 All of my projects are available at my repository 
 
